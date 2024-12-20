@@ -70,7 +70,7 @@ import 'package:get/get.dart';
 //import 'theme_controller.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized(); // إضافة هذه السطر
+  WidgetsFlutterBinding.ensureInitialized(); 
   runApp(MyApp());
 }
 
